@@ -1,6 +1,6 @@
 # citrus
 
-## Data link: https://1drv.ms/f/s!AhWn9nTDK7cr9AnG1knsP9U-9OJ1?e=aZfEba
+## Data link: https://drive.google.com/drive/folders/16Hgo6yXLXia6xN8hqplqJEbKzxXIusx1
 
 ## To run the model for detecting the citrus leaf disease:
   -  Download the dataset from the above directory
